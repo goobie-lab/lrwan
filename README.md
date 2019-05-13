@@ -14,11 +14,14 @@ Extract archive in the workspace directory (where this file resides).
 
 # Build
 
-## Compile for debug...
-    $ make DEBUG=1
+## Compile application AT_Slave
+    $ make APP=AT_Slave
 
-## Compile for release...
-    $ make
+## Compile application PingPong
+    $ make APP=PingPong
+
+## Compile with debug enabled
+   $ make APP=Xxx DEBUG=1
 
 # Debug
 

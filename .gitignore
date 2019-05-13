@@ -2,4 +2,5 @@ STM32CubeExpansion_LRWAN_*
 *.zip
 *.hex
 *.elf
+*.a
 *~
