@@ -35,4 +35,4 @@ Extract archive in the workspace directory (where this file resides).
     $ sudo openocd -f st_lrwan_l0.cfg
 
 ### Start gdb in another terminal:
-    $ /opt/gcc-arm-none-eabi-7-2018-q2-update/bin/arm-none-eabi-gdb -tui lora.elf
+    $ /opt/gcc-arm-none-eabi-7-2018-q2-update/bin/arm-none-eabi-gdb -tui PingPong.elf
